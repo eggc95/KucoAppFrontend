@@ -1,4 +1,8 @@
 ﻿# KucoAppFrontend
+ 
+## Intro
+
+This is an ReactNative app made to display and update bids/asks size of cryptocurrencies 
 
 ## Installation
 
